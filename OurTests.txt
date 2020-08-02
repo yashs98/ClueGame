@@ -1,0 +1,5 @@
+For the door directions we wanted to make sure our doors were in the right spots and weren't off by one anywhere.
+The left facing door was chosen at its location because on our board it surrounded by many different cells of
+varying type. This makes it a good candidate for the test. for all of our test cells we chose mainly cells that
+bordered other types of cells. This way we can tell if there is an error loading the file easier because the tests
+are more likely to fail. This is especially true when testing the initials of cells.

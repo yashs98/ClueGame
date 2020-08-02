@@ -1,0 +1,2064 @@
+commit 14a8b7a4694ff95ea316696de18bb532ff639240
+Merge: c01c401 ad6d9c4
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 23 23:53:49 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+    "Merging"
+    
+    g Please enter a commit message to explain why this merge is necessary,
+
+commit c01c401450ddbdf636f7e028783cf109efb69989
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 23 23:53:40 2018 -0600
+
+    Fixed Control Panel to be functional
+
+commit ad6d9c4e3ced4a63e71ae13da50029444c9d1ad8
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 23 23:25:31 2018 -0600
+
+    Added comments.
+
+commit 8126b8f44e03993273fae04f843351461592c00d
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 23 23:11:36 2018 -0600
+
+    Added comments to functions.
+
+commit 3363d168de0bc1bc72980aba796d1134b15fe0b0
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 23 23:04:42 2018 -0600
+
+    Another update
+
+commit 68ccc68e848ed219fc26149ac52f25b8d306b29e
+Merge: d8b75b5 2cff02f
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 23 23:00:52 2018 -0600
+
+    Merging
+
+commit d8b75b5b1424804265c475223f2967b6c347322d
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 23 22:58:52 2018 -0600
+
+    Refactored the whole ControlPanel
+
+commit 2cff02fed9689a4fc5491757d793d06c6bbbf5af
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 23 22:49:56 2018 -0600
+
+    player turns all work
+
+commit 62aa9157c27b7ed135b4e4f125f7927381cfc7ab
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 23 22:42:10 2018 -0600
+
+    Got the computer players to work.
+
+commit 66bcbe8c3404b7e345027d3f27f2fee141677533
+Merge: 2624eb9 a282e72
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 23 20:59:28 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 2624eb99d1f810a2f3693dace98e3180cfe6bfdf
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 23 20:59:22 2018 -0600
+
+    added rollsaving
+
+commit a282e721d1217018e416c6f683eebc8bd5dcf8b3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 23 20:35:31 2018 -0600
+
+    Getting the computer players to move.
+
+commit 243327bc5a173069d6de8df4525fb5070b07f9c8
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 23 20:30:49 2018 -0600
+
+    Getting the computer players to move.
+
+commit 054c92c2feda1e6de99f62d2a07d685d813243ec
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 23 20:10:04 2018 -0600
+
+    refactoring
+
+commit d8b78464055a4b6f5b0524815a94647a9d1d482c
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 23 19:10:51 2018 -0600
+
+    next player button works
+
+commit beaaeb1fe5b8be9b8c7d8146aae6fedf08366c0a
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 23 18:11:20 2018 -0600
+
+    palyer movement works
+
+commit fe1ceefcfd434b7d22e42dffcd829e0c5178a45b
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 23 14:12:47 2018 -0600
+
+    Moving the players.
+
+commit b42e274fc5da85c82ca918b74c000e4e0b2bd03c
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 23 10:50:20 2018 -0600
+
+    Getting the roll dice to work.
+
+commit bc217a1f76aa7ab9ff7d6a416fed7d9c88f50268
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 23 00:47:44 2018 -0600
+
+    Current bug with button not updating due to being unable to track Button address
+
+commit e981e21e5179b717b0567909f772a357448319fc
+Merge: 8050da1 0f8c572
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sun Apr 22 16:17:45 2018 -0600
+
+    merge
+
+commit 0f8c572d8f19bceba96d2df73d5a5cc694e70c80
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sat Apr 21 17:58:25 2018 -0600
+
+    Added a button to roll die.
+
+commit 8050da15ef3976b5a9558b6b8906d4102b0d5ddf
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 21 16:31:04 2018 -0600
+
+    added rollDice
+
+commit 5eabb947e4994bffa7cf80cb8d1f237060dba275
+Merge: c7c7c4f 2a3474d
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Fri Apr 20 22:18:09 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit c7c7c4f7d481263e1867a3f3cf693bd492599c30
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Fri Apr 20 22:17:11 2018 -0600
+
+    Allowing the human player to move and to help highlight the target board cells.
+
+commit 2a3474d049910a533e24413c1fb5a4cb19b3db6e
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Fri Apr 20 21:11:38 2018 -0600
+
+    Cleaned up GUI, added Die button and Commentary.
+
+commit 3892bf7f888d2561ba939857994f4092a99552bd
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Fri Apr 20 20:06:56 2018 -0600
+
+    Added a method to clear die value and the end of the turn
+
+commit 0ce5e7bccda88597af054741992cc15b2b09bce8
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Fri Apr 20 20:03:41 2018 -0600
+
+    Changed Dice textfield to label and to display dice rolls when called and added commentary.
+
+commit 5b89fc5c24964968a12636df3bafa2fe6e899b42
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Fri Apr 20 14:05:53 2018 -0600
+
+    added driver
+
+commit 762dca706b7484f61c60c2531cb8f13145d3585f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 19 20:36:50 2018 -0600
+
+    Working on allowing the human player to move.
+
+commit fe6ae37a6d8ca829b036aca7f1f1c6a6bb8c060f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 19 12:36:35 2018 -0600
+
+    added game driver
+
+commit 1eef1f9871327a82c3eee07247a3e63a918cac78
+Merge: b4337c2 84f5fc0
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 19 12:04:36 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit b4337c2ac095779fa48a38abeb8217c86036945b
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 19 12:03:43 2018 -0600
+
+    lots of stuff has been done
+
+commit 84f5fc064bd389d17b9285df4a91aba06d48378e
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 19 12:00:10 2018 -0600
+
+    Doing minor detailing and refactoring
+
+commit b0e1be98420a55c0a7677b01c80547b11a89f65a
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 19 11:23:42 2018 -0600
+
+    Merging with current
+
+commit 1a89e531a8cc67911cde1e61d8cf21b767bbd7b3
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 19 11:20:35 2018 -0600
+
+    Trying to update/pull
+
+commit 32aebbee37ce7c5e138f210f83d78c9e931039a0
+Merge: e82656d e9e0dd3
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 19 11:20:08 2018 -0600
+
+    Trying to Merge
+
+commit e82656d517477fa1e2485aec016fb20987e695f0
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 19 11:17:08 2018 -0600
+
+    Attempting to merge
+
+commit e9e0dd3488254501d560ece8343b5c72a2cb7ae0
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Wed Apr 18 23:37:38 2018 -0600
+
+    Refactored Card Layout
+
+commit 3f92d997e5fc27ce0bef9452873223b89da610a9
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Wed Apr 18 23:26:27 2018 -0600
+
+    Added some commentary and minor refactoring
+
+commit 60b451602c284fdfda5af06398670a9f70f34255
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 18 21:33:59 2018 -0600
+
+    Working on showing the human player's deck.
+
+commit 6bf2494a1763547d776ba5db55350807d9973d05
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 18 20:27:43 2018 -0600
+
+    Working on showing the human player's deck.
+
+commit 3c47e33fc07abd972054238d826da04633bcb8fb
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 17 17:25:58 2018 -0600
+
+    Working on showing the human player's hand.
+
+commit 21cb73273dbe7f1888d01e8576f2d211e1473213
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Tue Apr 17 12:22:18 2018 -0600
+
+    Fixing conflicts
+
+commit 2ceafd6fb5fe9934ea710f05428329fd20d6ea8d
+Merge: 876d74b 0f570bb
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Tue Apr 17 12:21:12 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+    "Merging with Current Changes"
+
+commit 876d74b19602a9a36841a522a62928f95c08d4d3
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Tue Apr 17 12:20:55 2018 -0600
+
+    Finished Cleaning up DetectiveNotes
+
+commit 0f570bbb71ea4ed836a1c349d3b25ab6e7f6528d
+Merge: 6931bfd 4aad5c3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 17 12:18:57 2018 -0600
+
+    Adding a panel to show human player cards.
+
+commit 6931bfd647733c5c1a6141cd947bc2e4fb2d3ff4
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 17 12:18:01 2018 -0600
+
+    Adding a panel to show human player cards.
+
+commit 4aad5c3aedc37ffd9db6c6aaf5f593134a6e3d15
+Merge: 1586216 45f0e88
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Tue Apr 17 12:14:47 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha8/ClueGame
+    "Resubmitting"
+    Please enter a commit message to explain why this merge is necessary,
+
+commit 62401a775e853dc4bc8456b53aaf08b62f6a0659
+Merge: 91a18a2 c6b7aed
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Tue Apr 17 11:11:23 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+    
+    "Retrieve updated version of files"
+
+commit 91a18a2a948990248753ee71f23c0166a63f9333
+Merge: 94d4dab 5a3e023
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Tue Apr 17 11:11:06 2018 -0600
+
+    For merging
+
+commit 15862162919f57556d4cedcc85be93531e2a8947
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Tue Apr 17 00:39:29 2018 -0600
+
+    Detective Notes Works
+
+commit 5a3e02382128acac4206c9e3cc83f6bdfbbb66d3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 17 00:33:54 2018 -0600
+
+    Commented the classes and functions.
+
+commit 606bd1a09aba75fa5f12c83fe82c8fd86d7b3b3f
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Tue Apr 17 00:03:01 2018 -0600
+
+    Fixed bugs in Board and DetectiveNotes
+
+commit 88d62442401cf16f566f8e2a919802cd761c0769
+Merge: ecc2b5f 72b0b0d
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 23:57:46 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+    "Merging"
+    
+    g Please enter a commit message to explain why this merge is necessary,
+
+commit ecc2b5f9a659c503aac36963a9630cd7875a3335
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 23:57:10 2018 -0600
+
+    Completed DetectiveNotes
+
+commit 72b0b0df26874232987e6f070bfc665f40c6e2f3
+Merge: 95c49d1 3b2ee84
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 23:52:08 2018 -0600
+
+    Got the exit button working.
+
+commit 95c49d180ba35e159542f5abae38b17a3efcb76b
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 23:51:09 2018 -0600
+
+    Got the exit button working.
+
+commit c91bfc0ad3feb5a8fc2aaf4c7acd38ed4eddb70f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 23:36:04 2018 -0600
+
+    Working on showing the names of the rooms.
+
+commit c532ca76e8ecd32d55aaaaac22fbd5ed408e5866
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 23:35:53 2018 -0600
+
+    Working on showing the names of the rooms.
+
+commit ac6d417f8da5540ea39949af1a0daf5bb8de191c
+Merge: df4683f d510386
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 23:31:46 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit df4683f74d260cd0b5a3267c5469c2e25f98e4a8
+Merge: e1df174 cd8fe8f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 23:28:50 2018 -0600
+
+    Working on showing the names of the rooms.
+
+commit e1df17476016961be2cbcc8a23e7e631837f6209
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 23:23:39 2018 -0600
+
+    Working on showing the names of the rooms.
+
+commit 74e187e4d154a67db00ed90ef066cb51dc85b3b2
+Merge: ffdab04 b3eefea
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 23:21:40 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit ffdab044489045b87c364ed24c2caf39e3fee524
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 23:21:30 2018 -0600
+
+    Working on showing the names of the rooms.
+
+commit b3eefea92353edbb551eb80f7eba76214395bf3c
+Merge: dfb9bc1 7bca20f
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 23:14:22 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+    "Merging"
+
+commit dfb9bc1328c670b02b80b53887af52950a9615eb
+Merge: d24805f 6008a16
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 23:13:11 2018 -0600
+
+    Merge branch 'CheckBoxes'
+    "Finished Checkboxes"
+
+commit d24805f79da905e510be13c434cdb99623d8e2e7
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 23:12:29 2018 -0600
+
+    Added actionlistener to ClueGame
+
+commit 4002ee9b8e57dc08c7f0b704383f54b910d1a919
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 23:03:49 2018 -0600
+
+    Double checking all appropriate files in commit
+
+commit cf57a254767560e4bb3d297e2f9c5676cb395675
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 22:53:16 2018 -0600
+
+    Fixed a variable
+
+commit 6d35e5f4eb823ae2a17bef270d25d14280201c61
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 22:47:13 2018 -0600
+
+    Converted board to a singleton
+
+commit a61b10d9f48e55513ac10fe874aa697a8ced68a5
+Merge: 365853a 7e5e8a6
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 22:45:37 2018 -0600
+
+    Fixed conflicts
+
+commit 6008a16b4b189eac9f298c1a719c97267e4c0d48
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 22:42:42 2018 -0600
+
+    Finished Creating arrays of checkboxes
+
+commit 365853acc6822fec4b6e01b8515c6939b226801d
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 22:09:30 2018 -0600
+
+    Converted Cluegame Gui to singleton
+
+commit 47eb11fbfb785e0cad9d9bcc800cdae7fd7bb7f4
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 22:06:45 2018 -0600
+
+    Updated BoardCell.java
+
+commit 1c35ac916ec8ef43dda77bcc0486ad3aa0f5b0cc
+Merge: cf24c58 f9ddf7f
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 22:05:26 2018 -0600
+
+    Fixing for Merge
+
+commit cf24c58ba53321ae38a02488fb3892f0f003cc91
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 22:02:24 2018 -0600
+
+    Updated Board.java file with previous version (Since merging previous version causes issues)
+
+commit 651cd7df1cbe71a9900e9f7d1da5c373b1cacba0
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 22:00:57 2018 -0600
+
+    Updated ClueGame file first with previous version
+
+commit e169ae331261d39db3d6737c1b27dfd2a4414b98
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 21:41:20 2018 -0600
+
+    Trying to fix NullPointerException Bug
+
+commit 46a7bd5a38d238ae7c4bc5af0df28c8fc2148220
+Merge: 8d6a6b6 b8fb1ab
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 21:22:26 2018 -0600
+
+    Made fixes to Detective Notes for merging
+
+commit 8d6a6b6d0f158f2005a0bcdadba234f84b464c38
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 21:14:49 2018 -0600
+
+    Trying to update/merge
+
+commit b8fb1ab5d9b914a8bc9a4361b3a97f33176e74f8
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 20:57:37 2018 -0600
+
+    Trying to work on getting the names of the rooms to popup.
+
+commit 3b34e20420321c793d294547b21e8efea7b31a9f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 20:57:23 2018 -0600
+
+    Trying to work on getting the names of the rooms to popup.
+
+commit 9bf9a023ad34a2bed1a7dca4183e0fa62d6f84af
+Merge: d7a6b13 da18fbe
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 16 02:05:06 2018 -0600
+
+    Fixing bugs
+
+commit da18fbe5fefc8da8923c1655e11c9ffe7977cadf
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sun Apr 15 23:42:42 2018 -0600
+
+    Working on making drop box for player names.
+
+commit 0a91cff0718107dd3c902c620d1f6236fa7cbf3f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sun Apr 15 21:56:13 2018 -0600
+
+    Working on making drop box for player names.
+
+commit d7a6b13c679e29d7273a0381d4ba32e0fd339d39
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Sun Apr 15 18:41:10 2018 -0600
+
+    Added Commentary to Detective notes
+
+commit 45f0e88354b91c4ab8510dc9b2c7b9a950382def
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 14:31:54 2018 -0600
+
+    added splach screen
+
+commit c6b7aedb8f906ea8a43e5ba4e608d3a69c8cbafa
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 13:54:04 2018 -0600
+
+    added grid lines
+
+commit 4c9a81ae890c30fed127cdaba1dafca60be7d09a
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 13:25:20 2018 -0600
+
+    made button work
+
+commit 6bfd3a6a69da2b3cd440448bbce0a29c2c15e47b
+Merge: e6465d3 606bd1a
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 13:16:44 2018 -0600
+
+    merge
+
+commit e6465d3247128c1fc16251cbf4a6e5a3a770f21f
+Merge: 34786cc 88d6244
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 13:10:55 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 34786cc8ec65b94bcb7247c9a0fdaa2ff8dda9e9
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 13:06:54 2018 -0600
+
+    merged
+
+commit 3b2ee848f70ef9cb1a1bbfb99feac1be4f7a2af7
+Merge: 1c23903 c91bfc0
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 12:59:37 2018 -0600
+
+    merge
+
+commit 1c2390381ccabd44beec7de357f8b35456724955
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 12:58:53 2018 -0600
+
+    names drawn
+
+commit d5103869ffe8d1c226cad230cdfb0c674d715cb7
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 12:42:03 2018 -0600
+
+    added file menu
+
+commit cd8fe8f222022b5aa61a0ae9af3b4763729c38f6
+Merge: 421a2a4 b3eefea
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 12:35:04 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 421a2a40783bc66ccadbc7b47c1d24db33779460
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 12:34:59 2018 -0600
+
+    added player drawings to board
+
+commit 7bca20f6fa06faf378eb966e9ce2a673ecf403ff
+Merge: 9dc914e d24805f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 12:25:49 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 9dc914eebebf8a4284e7deab7022eefb7b7a30ce
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 12:25:20 2018 -0600
+
+    fixed door drawing issues on the board
+
+commit 7e5e8a6177ded01ade9e3e61d25c6267532551ef
+Merge: bd78255 d4476a7
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 11:32:59 2018 -0600
+
+    merging
+
+commit d4476a7a9afbe05ea9129e278b2b0d3e17fadeeb
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 22:17:07 2018 -0600
+
+    Working on showing the board.
+
+commit bd78255778e177c18634066a8e706cc33972ebac
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 11:31:42 2018 -0600
+
+    file menu in progress
+
+commit 709a6a74f42c0d8624da48dab988240e515530d7
+Merge: b7b5f3a 47eb11f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 11:21:43 2018 -0600
+
+    merged
+
+commit b7b5f3ac3e7474c8a07e3bf31b38678c1ad11fc9
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 11:20:51 2018 -0600
+
+    this better work
+
+commit f9ddf7f6716d596c19f67fe3c2e6e666c18aa242
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 10:57:57 2018 -0600
+
+    i hope this fixes things
+
+commit ebc74cc96904c198a6e45ac3f3b03e53884e47b1
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Apr 14 09:06:02 2018 -0600
+
+    wrote draw methods for both players and boardcells
+
+commit 03d2c69a2883f4c787742bddf9f4c8e82b4fa928
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 18:24:08 2018 -0600
+
+    Working on ClueGame class.
+
+commit 0a5b5bee81c02a9ba7d6d6ed0712ba5439d9c34c
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 14:28:51 2018 -0600
+
+    Working on DetectiveNotes.
+
+commit 7e9b9fd51778eacec8f189753e60a5bf936730fb
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Apr 16 14:27:58 2018 -0600
+
+    Working on DetectiveNotes.
+
+commit f5597c9b2271696fc5cff3342c6d5ff8425c93c6
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 12 18:17:57 2018 -0600
+
+    Working on DetectiveNotes.
+
+commit 32a6a42550f83bda32cc6b14b629479831f9a620
+Merge: 53749e5 8d8eb9e
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 12 11:39:52 2018 -0600
+
+    Created class DetectiveNotes, ClueGame, added paintComponent to Board class, and added draw method in BoardCell.
+
+commit 53749e59627c08608e4ad20532cdb406210434e7
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 12 11:38:03 2018 -0600
+
+    Created class DetectiveNotes, ClueGame, added paintComponent to Board class, and added draw method in BoardCell.
+
+commit 8d8eb9e3e020117f846653713e54cedc561fae3e
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Wed Apr 11 21:19:20 2018 -0600
+
+    Added names and further commentary
+
+commit d9c39f9297a50d740f1ff40a9011fcd32e18d7af
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Wed Apr 11 21:01:45 2018 -0600
+
+    Added Commentary
+
+commit 9f193d1c8eaa5633ad24a3082072705229bf8d65
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 11 17:38:21 2018 -0600
+
+    Made changes to make the panels fit properly in the window.
+
+commit ce7519e6794141a201ccf6841445fffe66f1f03c
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 11 17:00:25 2018 -0600
+
+    Made the panel guessresult and added a button to make an accusation.
+
+commit 5621956b5b81bb879db5136840d11744e6a9b3aa
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 11 16:33:06 2018 -0600
+
+    added 3 panels for readouts and buttons
+
+commit 3fc7c95fcdc2590807a6060651278b99adcc7663
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 11 12:41:41 2018 -0600
+
+    Started creating a panel for the controls.
+
+commit c223fd62806d2d8188516352795a01c4cbb5b5f9
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 11 00:53:21 2018 -0600
+
+    refactored past code to work better with player code
+
+commit 925f3f7d708e628d23872e6ac933b86a991f5bd7
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 11 00:37:04 2018 -0600
+
+    debuged and implemented suggestion handling
+
+commit 3668bf8320b88207ee290ed606cb59a798b540b5
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 23:30:24 2018 -0600
+
+    rewrote handle suggestion tests
+
+commit 71279f9f85f1d4fe5cfdaac4dfcfb47114e00210
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 22:59:23 2018 -0600
+
+    Working on making comments.
+
+commit 2f8d37d685d315a3a50177387b614e1600f24bfc
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 22:51:48 2018 -0600
+
+    Working on implementing functions for handleSuggestion.
+
+commit 449b8fbcb95d547a210eb995782d87107c6d2a17
+Merge: dadf626 e1d02c3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 22:32:55 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit dadf626be17b84447db29b9317f63424b9b930f6
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 22:32:43 2018 -0600
+
+    Implementing function handleSuggestion.
+
+commit e1d02c356a1a71a91315e2ad1800164b1fd3b538
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 22:27:29 2018 -0600
+
+    fix exceptions tests
+
+commit f10575ae3b03e1b4cb134bdbce21626ccea91114
+Merge: d9db371 632bb2f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 21:50:11 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit d9db371d408436cc09e354e1dd16a6ad3ed09237
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 21:50:06 2018 -0600
+
+    exceptions
+
+commit 632bb2f0ebfc1b075ef79f537c2b2253646dc5da
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Tue Apr 10 21:48:06 2018 -0600
+
+    Pushing new changes and edits
+
+commit e327df0df116b2eaeb5d578c3f8a3d246bda4847
+Merge: 9b117e8 b44f1bf
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Tue Apr 10 21:38:46 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+    Pulling for Push
+
+commit 9b117e866b8ca08115c61e0b2e7dcb54af7ca1ec
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Tue Apr 10 21:38:40 2018 -0600
+
+    Finished failing tests for Handle Suggestion
+
+commit b44f1bfedaf900f76faf844558b1220fa5db6196
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 21:35:34 2018 -0600
+
+    Making changes to make sure the tests pass.
+
+commit e09dbedf020bda7595510b10b9ddbddb72635b2f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 21:25:10 2018 -0600
+
+    Implementing the code to make the tests pass.
+
+commit 187c9d10cd5a9c9cc779e8f0c91c7ebe7d11186f
+Merge: 3a83b6a b40d538
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 14:44:04 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 3a83b6ac871d100ff41fff7920476dea3731e1c4
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 14:43:44 2018 -0600
+
+    Got the test checkAccusation to pass.
+
+commit b40d53898afa5ea316e1363dca66351c0645cc74
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 13:01:03 2018 -0600
+
+    implenented computer suggestion cretion. also edited tests for the .equals function for good comparison.
+
+commit 0626036a096b701cb73c8733e3574e247531d456
+Merge: f7cf19f 17c50cd
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 12:17:37 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit f7cf19f44d058817a42181514ae38a438dd23431
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 12:17:31 2018 -0600
+
+    added files
+
+commit 41d37c602ac2617ff86f6bff60cb1c10a865899d
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 12:14:34 2018 -0600
+
+    wrote tests for computer make suggestion
+
+commit 94d4dabed1e7e3f19b05d589d748570f68aab1e4
+Merge: b75d585 17c50cd
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Tue Apr 10 12:12:19 2018 -0600
+
+    Debugging for merging
+
+commit 17c50cd02e09630d2e6e3b7fa5c3ee799f5ded0e
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 12:07:48 2018 -0600
+
+    Added several files to github.
+
+commit b75d58589b8ba8dccb586f8346cef422747110f7
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Tue Apr 10 12:07:01 2018 -0600
+
+    Finished Failing Tests CreateSuggestion
+
+commit ae6f2406eeb9cb94a19bfb1d269b6028682f996b
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 12:02:25 2018 -0600
+
+    Finished the test function checkAccusation.
+
+commit df1d2baa726827058893ebacfbf2297ccf755140
+Merge: 7bfa3d0 e0f737a
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 11:20:59 2018 -0600
+
+    Working on checkAccusation.
+
+commit 7bfa3d0db76757d51387000ef7a942ccdbd973e5
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 10 11:07:10 2018 -0600
+
+    Implementing the test method checkAccusation().
+
+commit e0f737a647cc4427e064d1396fc1bb2f1bffa15c
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 00:32:13 2018 -0600
+
+    implemented computer disprove suggestion
+
+commit c995922c6e36699bd4de318fe916d4be02d4a486
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 10 00:21:50 2018 -0600
+
+    wrote tests for computer disprove suggestion
+
+commit 7141ce0d5be10470efc86d9506911fc1f0326567
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 9 23:54:03 2018 -0600
+
+    made edits to computerPlayer to get ready for implementation
+
+commit de2de5b4dce96ff661eff61fa163fe5ab05ec016
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 9 23:43:39 2018 -0600
+
+    implemented select method for computer. fixed issues with tests
+
+commit ee66f02ca1975cfa6bcb35b5936933bec6502472
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 9 22:27:20 2018 -0600
+
+    computer target select
+
+commit 8519aa9cb91883b1b0f813564a6ffabe4182e27b
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Apr 9 21:49:27 2018 -0600
+
+    wrote setup method in tests
+
+commit 39bae6853d6d31a4f14de1a85ffc4efcf1c879aa
+Merge: edf69a4 7af42c3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sat Apr 7 18:42:22 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit edf69a48a6dda5de67f4af5dc960eef5aadfbd23
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sat Apr 7 18:42:05 2018 -0600
+
+    Made the class gameActionTests with necessary test functions.
+
+commit 7af42c397891fea4e08b4224f73f5179594c82b8
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Thu Apr 5 23:01:50 2018 -0600
+
+    Added authors to new files
+
+commit ec39f247e55ca8d122d5d36510c62a39123f81a3
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Thu Apr 5 22:50:42 2018 -0600
+
+    Added Final Commentary
+
+commit 26f1deff2448e72947380af210bc120951e5fd83
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 17:06:07 2018 -0600
+
+    completed methods for working test.
+
+commit 73fd1b64ca9db7d784ad650468419d0c95ca7357
+Merge: 659596c 98e19dd
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 16:50:39 2018 -0600
+
+    merge fixed
+
+commit 659596c15e97d6903a92a2d904f55fdf4941961a
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 16:49:01 2018 -0600
+
+    required commit
+
+commit 98e19dd164e1c6eaa96a5d7905ba5fab4ff53ce3
+Merge: 07f5adc f9c3bb3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 5 13:44:17 2018 -0600
+
+    Working on checkCards function.
+
+commit 07f5adc71a1022c65d600ddab9cd8a6b1a56a642
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 5 13:42:47 2018 -0600
+
+    Working on checkCards function.
+
+commit f9c3bb33bc80c178ec19d690949fdcb7394ede70
+Merge: 1133962 2b64d68
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 13:17:33 2018 -0600
+
+    merged
+
+commit 11339628a2fb16a2216e5c91732f61d46eb5081a
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 13:16:22 2018 -0600
+
+    implemented the deal() method
+
+commit 2b64d68b8d9678dcd333954f97e6287df9e64ef9
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 5 12:22:06 2018 -0600
+
+    Implemented the checkCard function.
+
+commit 6d2942c02d41e22cf430bc85e598483cd9876ae8
+Merge: 288ac23 3a61e51
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 5 11:57:50 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 3a61e51918c31769ab987ad128d5ddfeeb28f4a2
+Merge: 4930936 3b35a5d
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 11:57:26 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 493093653730b62bda1645bd4ea51c966177054d
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 11:57:06 2018 -0600
+
+    started work on deal method
+
+commit 288ac234cf8505895bc5f8fb66434229a16836dc
+Merge: 3eb8e23 3b35a5d
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 5 11:55:31 2018 -0600
+
+    Edited compareDecKCount().
+
+commit 3eb8e2310f37df17088889297c62d6320f0500b7
+Merge: c5d5f02 63db9f3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 5 11:53:13 2018 -0600
+
+    working on checkCard().
+
+commit 3b35a5d95c3daaf6bc54cd7a5b4dc94139f9b1e8
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 5 11:52:06 2018 -0600
+
+    Refactoring
+
+commit 9186425afb653be6b215e8b5b402f11157a3d490
+Merge: 2753c87 63db9f3
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 5 11:45:10 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+    For Committing
+
+commit 2753c87bead76549df9a8deddb82f570cabff34c
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 5 11:44:46 2018 -0600
+
+    Completed one of the method stubs in Board Class for a test
+
+commit c5d5f0208f099f17fb749b19dd09fd32795a9217
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 5 11:44:37 2018 -0600
+
+    Working on implementing the function checkCard().
+
+commit 63db9f39f54a6b1188df76e0235b48e5fda5b3ad
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 11:42:36 2018 -0600
+
+    added deal stub
+
+commit 044df6447ff8544f40cc6afb78611a98612982ce
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 11:41:22 2018 -0600
+
+    refactored player class
+
+commit 164306c250b0fa67f2c71a1869010db129fad150
+Merge: df0d199 41b8925
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 11:31:38 2018 -0600
+
+    fixed merge
+
+commit df0d1995ae0dc45e8fcfecd0080317f8445f8eec
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Apr 5 11:30:23 2018 -0600
+
+    added constructor for solution
+
+commit 41b8925948cc9e82a90179015c7dab0aa5b84a8c
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 5 11:29:07 2018 -0600
+
+    Minor debugging
+
+commit d1f2c90411364f2e65e47b27eaca0676e07f6bab
+Merge: aec1d71 ff4cb8c
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 5 11:28:14 2018 -0600
+
+    Met purge branch 'master' of https://github.com/ysinha98/ClueGame
+    Fetch then push.
+
+commit aec1d71ff7a80a807f038a9beedc96e41702daea
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Apr 5 11:19:17 2018 -0600
+
+    Minor debugging
+
+commit ff4cb8c175536071b0165949b9bed3f009c758a4
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Apr 5 11:15:37 2018 -0600
+
+    Added comments to newly implemented functions.
+
+commit c234d5494080141add8d13de19058d20d4060b95
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 21:31:37 2018 -0600
+
+    Implemented compareDeckCount function.
+
+commit 32de0fe00cb99af34b931f67cc1bf6646bba17ce
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 21:28:44 2018 -0600
+
+    Implemented compareDeckCount function.
+
+commit a8e7520713d7d403f1a1ece3a9738a018883214a
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 21:21:42 2018 -0600
+
+    Added comments to functions that were implemented.
+
+commit bf50134ed302394ac9661189ab34d623be1d88e3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 21:13:43 2018 -0600
+
+    Added comments to functions that were implemented.
+
+commit ff47f70e54911033ca973b8eefa1640a5a7ace61
+Merge: 8344b6e 2a70885
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 4 18:36:57 2018 -0600
+
+    fixed merging issue
+
+commit 8344b6e7a26d336123acca8e3787fa25f048d088
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 4 18:10:18 2018 -0600
+
+    required commit
+
+commit 2a708850bb5ffdbfa2b27979ce7612daa7e4774c
+Merge: 8c65756 1086359
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Wed Apr 4 17:41:40 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+    Getting Updated files
+
+commit 8c6575622d691b51051bd45f78de0e1a18dfc71a
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Wed Apr 4 17:41:26 2018 -0600
+
+    Finished DealCards failing tests and method stubs for the tests along with commentary for the tests and methods.
+
+commit 108635957c835fc324ac09a4160d74afbf7b7499
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 16:40:41 2018 -0600
+
+    The test createDeckOfCards() is now passing.
+
+commit 9101b336ac2a31e393eac1e0409169aa74b54761
+Merge: df12ec5 57dd661
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Wed Apr 4 16:38:40 2018 -0600
+
+    Merge branch 'master' of https://ithub.com/ysinha98/ClueGame
+    Fix conflicts for merge
+    :
+
+commit df12ec56d9a3381387993cfad63aa46d74445073
+Merge: 72b6075 56b19e3
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Wed Apr 4 16:38:31 2018 -0600
+
+    Fixing local conflicts for merge
+
+commit 57dd6611332395fdddc44403b4d7191bf467d5d0
+Merge: 721fc55 56b19e3
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 4 16:37:33 2018 -0600
+
+    fixed merge issue
+
+commit 72b6075455df3612bfd49c3ff44882309dcabbc7
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Wed Apr 4 16:36:41 2018 -0600
+
+    Merging for pull
+
+commit 721fc5501b93929dd4ed6e321ae10eb740fd4c98
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 4 16:36:30 2018 -0600
+
+    required commit for pulling
+
+commit 56b19e335317d1a9e003d7ccd2d5c89f1760e844
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 16:34:55 2018 -0600
+
+    added loadWeaponConfig()
+
+commit 7d5aa53307a7792e3e49cbac238cfee0802196a1
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 16:30:25 2018 -0600
+
+    added loadWeaponConfig()
+
+commit 0bc90db12f46bc98676ef65bd701b426ffe5bba7
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 16:27:42 2018 -0600
+
+    added loadWeaponConfig()
+
+commit 5d3219afe26c9932fffa6c622794544ad5c53742
+Merge: a73ca04 3b15aea
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 16:21:47 2018 -0600
+
+    fixed merging issue
+
+commit a73ca0495daccd6b3a7904aac7166b9ab6395e2f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Wed Apr 4 16:19:10 2018 -0600
+
+    Added a deck that has all types of cards, and a new function called loadWeaponConfig that reads in the different weapons and stores themin the deck.
+
+commit 3b15aea8faf06ba2328a8ab6a26ae456648956e0
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 4 16:17:34 2018 -0600
+
+    createDeck tests have been written
+
+commit 44840db054d7cbb05f07ff59ab589b8f8a58e597
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 4 15:59:20 2018 -0600
+
+    added deck vector
+
+commit 3b7a989ad0ee4ef37b21eb23cc905fc1152cedc4
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Apr 4 15:56:55 2018 -0600
+
+    added weapon config file
+
+commit 92bd3c1a9c4cc135a46f62d99ae01ed74fae3276
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 3 23:44:39 2018 -0600
+
+    Working on the test called createDeckOfCards()
+
+commit 08b724e2628c7253c9abb21e875b6dc9182dda21
+Merge: 1d586ef cf6629f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 3 22:45:08 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 1d586efa9554d9913bbc28d557a288f732f41860
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 3 22:44:52 2018 -0600
+
+    finished people load config, and restructured tests to work with chosen data structures.
+
+commit cf6629ff9727c615059273ba087cafedd787a347
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 3 21:50:18 2018 -0600
+
+    Adding a third parameter for setConfigFiles
+
+commit 203589e648dccbe3b18803358c2db44974c5e16b
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 3 16:27:09 2018 -0600
+
+    partial progress through loading players
+
+commit 1ef940c7397eff62b7c90713394e3e982c3dd111
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 3 13:16:53 2018 -0600
+
+    modified code to read in people config file and added stub to load in file
+
+commit a768f284f12cb5ac806c8ef5e79d283ec38f9d1d
+Merge: 83d9984 e311d8b
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 3 13:03:30 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 83d99845050ff1b3376c2d8ca251d667c628e79d
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 3 13:02:41 2018 -0600
+
+    added people config and added tests for loading people in
+
+commit e311d8b05440ca5fb1722686550311648f04fe45
+Merge: 2459480 410c40f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 3 12:12:10 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 2459480629d0917f6f6164bb45431484e24a7804
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Apr 3 12:11:28 2018 -0600
+
+    Finished the setUp function in gameSetupTests
+
+commit 179c36fd27ffb7f84fdea43fd781735466e72224
+Merge: d978d64 410c40f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 3 12:05:43 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 410c40f8d2637b5ed703b3580e6faa891371dfbd
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Tue Apr 3 11:52:02 2018 -0600
+
+    Temporarily added possible datastructures for Weapons,Players,Rooms
+
+commit d978d6457c3604f577ca85223ce582236aa660f5
+Merge: 0506a05 88c47ff
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Apr 3 11:31:20 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 88c47ffde34ef74a5d1b4a360789afd0aef9ecc6
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Tue Apr 3 11:26:00 2018 -0600
+
+    Updated Card Class from UML Design and Modified Legend to incorporate new enum type.
+
+commit 449df7a639c22e11baf22837c1f7c65a6f9cd5c4
+Merge: 9a651b8 143fe53
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Mon Apr 2 10:38:01 2018 -0600
+
+    Update my version with new classes
+
+commit 0506a0553afb351fd3f5b6cd6d44fdbc11f6cb6e
+Merge: 1f3b28c 143fe53
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Fri Mar 30 11:46:22 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 143fe53a00d22e9c07fe4575f8676195dab583dd
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sun Mar 25 13:45:41 2018 -0600
+
+    Added classes and extra functions mentioned in the UML of C18A.
+
+commit fe11203d06f97d65d3f96490373cd4689d7b6ab3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sun Mar 25 13:43:35 2018 -0600
+
+    Added classes and extra functions mentioned in the UML of C18A.
+
+commit 9a651b82604104959e10665531dd85a9a32a6cb9
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Sat Mar 24 13:12:35 2018 -0600
+
+    Added clarifying comments
+
+commit 65e475ade7e00cc590b1311b3f0aa14cddbf010f
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Sat Mar 24 06:20:50 2018 -0600
+
+    Added another file to go with previous commit
+
+commit 8eb97c076c4c9190c5bc2c21f5b1ab00b87e7f60
+Author: Calvin <cmak@mymail.mines.edu>
+Date:   Sat Mar 24 06:17:43 2018 -0600
+
+    Added Configuration check for legend and setup Framework for Cards to be added in the future.
+
+commit 1f3b28c16ca32fb362f2f6368fd51b31b574955b
+Merge: d49c482 4bc3fb5
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Fri Mar 23 20:20:08 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit d49c4825ef2b510a38c0c5d527f1ced7ef98e6f6
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Fri Mar 23 20:19:41 2018 -0600
+
+    made walkway checks in calc adjacencies a seperate method
+
+commit 4bc3fb5d923dd81cf8d5e607d689dda65e2086fa
+Merge: 11642c0 d3f498d
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 22 12:24:26 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 11642c012b790c8d37c8790df7b4bba2478c0be5
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 22 12:23:11 2018 -0600
+
+    In the loadBoardConfig() function where it contains an else statement in the for loop that throws new BadConfigFormatException, I added a string inside the parenthesis so that a more specific error is added to logfile.txt
+
+commit d3f498d1be2d04d65c015ce3ab82e3f3b0e660c7
+Merge: 4b95615 6c3ecbf
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Mar 22 12:23:01 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 4b95615054a1db6c0605046f134685821eeefa61
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Mar 22 12:22:16 2018 -0600
+
+    Added a way to account for DoorCount
+
+commit 6c3ecbfb77c34b64a128fd9ceac440b28f145fee
+Merge: dada972 eaf10aa
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 22 12:13:31 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit dada972db0d00f6cc9bff5240267ddc2563e2114
+Merge: 84426b8 d2b6892
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 22 12:10:21 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit eaf10aa42111fa27d9ecf11b75f7c3b3336b1a44
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Mar 22 12:10:10 2018 -0600
+
+    New member to the group
+
+commit 84426b854534e359636cb901cfe62e1c9c4c71e7
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 22 12:10:03 2018 -0600
+
+    Added else in front of if statements that are in else if statement inside the for loop in loadBoardConfig() function.
+
+commit d2b68924aa548ba8caf75ce9197524553fa9713d
+Author: Calvin Mak <cmak@mymail.mines.edu>
+Date:   Thu Mar 22 12:05:47 2018 -0600
+
+    Changed Sets/maps to a general set/map
+
+commit 7daeab30ac91f1abe59842957cfeca9e50467bb2
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 22 12:00:30 2018 -0600
+
+    Made changes to the initialize function on Board class where there is one try and 2 catch statements rather than 2 try and 4 catch statements.The single try includes both loadBoardConfig() and loadRoomConfig() functions.
+
+commit f422373e508c6f4d40abfb10b49f62986cde28c5
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Mar 22 11:37:47 2018 -0600
+
+    removed commented out testing print statements
+
+commit d30c24858c2fe0d44e66b5aa0316d6e6396d5e1b
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Mar 22 11:36:35 2018 -0600
+
+    updated string names to reflect function
+
+commit 33ad3a8fcdb33c1a7a50e04fd567ae14dd197441
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 19 21:15:17 2018 -0600
+
+    Added javadoc
+
+commit 212dcaf7b0470ae9ddb4ea7c3f153f3efb16ab1f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 19 20:56:01 2018 -0600
+
+    Added a Javadoc called doc
+
+commit 5f5f6e762a70e6000d8a79d7b5bafc015b820951
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 19 20:46:52 2018 -0600
+
+    Added Javadoc
+
+commit a63718e899bd6d49fe6a1d6e1bfda767abbce99f
+Merge: 0a536e0 24c5e9f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Mar 13 22:35:55 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 0a536e0e05a44bb31ed47f8e33d7ad01c1d50d17
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Mar 13 21:25:43 2018 -0600
+
+    Revert "Revert "fixed bugs in tests""
+    
+    This reverts commit 5189aecddf94aab1a6813f2a434d4905a5e75785.
+
+commit 5189aecddf94aab1a6813f2a434d4905a5e75785
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Mar 13 21:25:16 2018 -0600
+
+    Revert "fixed bugs in tests"
+    
+    This reverts commit 9e06f40c0ae7a79ecee98fd59fd2ac5e904dbe4d.
+
+commit 24c5e9f25f3f3ba18f61637f49b98d579c2cb0fc
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 12 23:20:50 2018 -0600
+
+    added coments
+
+commit 9e06f40c0ae7a79ecee98fd59fd2ac5e904dbe4d
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 12 18:03:30 2018 -0600
+
+    fixed bugs in tests
+
+commit e7a25db59b72f717e6b334bbc80063b2cca9b0af
+Merge: 50647d4 cb7b92f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sun Mar 11 20:23:49 2018 -0600
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 50647d4d87e33ad74df3ad214eaa2bbd2c4ac8b8
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sun Mar 11 20:22:50 2018 -0600
+
+    added clueboard file
+
+commit cb7b92f035aaedf4654ded30fecbd19445d549b2
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sun Mar 11 19:39:04 2018 -0600
+
+    Made changes to the tests
+
+commit 06cad8e22af33a2ad7ce3673de120b7156ade255
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sun Mar 11 17:16:14 2018 -0600
+
+    feat: added all functionality
+
+commit 6fc6b174f9100163009da847f8e7da258b7b76b6
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Mar 10 18:07:36 2018 -0700
+
+    chore: write comment descriptions for tests
+
+commit b00aa0bb79b1ea69e051f7cb03e5ad5936045c63
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Fri Mar 9 21:52:04 2018 -0700
+
+    Commenting some of the tests
+
+commit f776d61ba5014732677dbd79f4f63995c2cd978e
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Fri Mar 9 20:51:42 2018 -0700
+
+    Made the tests for adjacencies and targets of the board cells
+
+commit f6ef348c8308c9297d23323732711c1cf6676f8f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Fri Mar 9 16:22:09 2018 -0700
+
+    fixed bugs
+
+commit b3e09ff71f6c6733633d93ea50325a3ca3f09dbc
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Mar 6 15:39:47 2018 -0700
+
+    Added tests in the class AdjandTargetTests
+
+commit fe56e24da9d682cbbbfaecadfbae58bcbd3fdec3
+Merge: 8786e44 933d3e4
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Mar 6 12:12:38 2018 -0700
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 8786e4443e0fe5ff01b83cc7817d3a8a902705e4
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Mar 6 12:12:07 2018 -0700
+
+    Created a file called AdjandTargetTests
+
+commit 933d3e46f1fdc2b626866f24bc856b9ed9d152a9
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Mar 6 12:06:23 2018 -0700
+
+    fixed all errors in provided tests
+
+commit 0172d157f072edce21021f0cff2635931875ae57
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Mar 6 11:23:31 2018 -0700
+
+    fixed errors in tests
+
+commit 8e1dade0f65419dfd71722388bc8c70a9a958565
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Mar 6 11:16:12 2018 -0700
+
+    added new test files
+
+commit f03a50c5c8c58e5d7a72f2f4aba1d197f07562eb
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 5 21:54:36 2018 -0700
+
+    Made comments
+
+commit 203e18f11611d8567343f462f64b8b0708806ca5
+Merge: cc1efe7 5b20088
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 5 21:40:13 2018 -0700
+
+    Done with Clue Board Part 2
+
+commit cc1efe704b2c5aff6566b16eb1df0cc0f877335f
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 5 21:33:11 2018 -0700
+
+    Changes made
+
+commit 5b200883bb5c830445e092c1c23cf61b76739617
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 21:29:33 2018 -0700
+
+    feat: finished legend config load
+
+commit 9c1dd83cc4df30d3fc9259dd544d309a14eaac20
+Merge: 2b4ff4e 6c410f8
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 21:06:54 2018 -0700
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 2b4ff4eb6b64108f17aaaa61f186cd0b8114f0ba
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 21:06:47 2018 -0700
+
+    feat: board loads perfect
+
+commit 6c410f8e8ec49ec6a4d6e2416b047906cf2811bb
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 5 20:21:27 2018 -0700
+
+    Made changes
+
+commit 9f742fe72081f05f6b58baa4419f265d8ff4fd02
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 20:19:51 2018 -0700
+
+    fixed the board loader not working properly
+
+commit 6fc11880374bd71531e92b66c03297e401c5577a
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 18:13:53 2018 -0700
+
+    dinner break
+
+commit 562dd484e65444b686d272c89863a22b5d605539
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 17:53:08 2018 -0700
+
+    actually fixed merge
+
+commit 002ffbbf4532d474fd50a415f076df2d8a54d6ce
+Merge: 28c49df 0adebe3
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 17:51:24 2018 -0700
+
+     Merge conflict settled
+
+commit 28c49df7c89c9ff889639d3c31518e2387d8ce65
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 17:49:17 2018 -0700
+
+    working on board init
+
+commit 0adebe353f925154f7cc3eac68393675cec4aa85
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 5 17:47:26 2018 -0700
+
+    Did the room config function
+
+commit c43fc66559e28997f416155f3fb3c8fb0435bb77
+Merge: 694cb68 37d36d4
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 17:25:26 2018 -0700
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 37d36d4d40439f283d904a95774ed32e0f727275
+Merge: 6c62d31 20e57ea
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 5 17:24:58 2018 -0700
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 694cb681eb9af3a4e2d9fb16334b4a85b180f7ed
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 17:24:33 2018 -0700
+
+    chore: almsot done writing board loader
+
+commit 6c62d319add82e5c7daa8a25220a506b9ed96bfa
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Mon Mar 5 17:24:21 2018 -0700
+
+    Altered the exception class
+
+commit 20e57ea0643987d9a422dcff1992c2c39057f48e
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 16:50:15 2018 -0700
+
+    feat: finished updating boardCell
+
+commit 78b97cdf4511fabdce677c2d41df734efa6ab1a6
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Mon Mar 5 16:46:53 2018 -0700
+
+    chore: updating boardCell
+
+commit a6f3e2f8090ece55b404c6b163e0dfdb033182b3
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sun Mar 4 23:29:25 2018 -0700
+
+    Added comments
+
+commit d1326a76f0e978507247049726bd04516e99093d
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sun Mar 4 16:16:41 2018 -0700
+
+    Downloaded CTest_ExceptionTests.java
+
+commit 1a125c1fa61ef43b653c8c7d6a3facc1400e9257
+Merge: e9d78dd debae7e
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sun Mar 4 16:12:38 2018 -0700
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit e9d78dd39605ba0428bd71c53a3decab12448765
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sun Mar 4 16:11:46 2018 -0700
+
+    Downloaded CTest_ExceptionTests.java
+
+commit debae7e29c401e318160c602fdd90a7d33c51ce3
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sun Mar 4 16:11:19 2018 -0700
+
+    Filled out most of the stubs in board class.
+
+commit 517072029a54b21a75f2b5df1f0df2b79d63dc02
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sun Mar 4 15:19:56 2018 -0700
+
+    finished part 1
+
+commit ac6e0f89e1bc87e40ee63e67b3c6496e12d7fd13
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sun Mar 4 13:41:06 2018 -0700
+
+    feat: wrote the text file OurTests.txt
+
+commit 2c464774ba0bb17f506db7b883679724abac9ed2
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Mar 3 22:39:43 2018 -0700
+
+    feat: wrote tests for team-made data files
+
+commit 1f48019100c4a1f92494717d34353bbd232bb43f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Mar 3 18:51:57 2018 -0700
+
+    fix: added exception file to git :/
+
+commit a8dbf73819af343bc5e94d6a4f7a0662f1336a7e
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Mar 3 18:50:32 2018 -0700
+
+    chore: added bad format exception
+
+commit f1a1004fb879a753545a84f9208a7214030358bb
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Mar 3 17:26:50 2018 -0700
+
+    added stubs for all methods and enum
+
+commit a3a3830fbb6b93487d017caf20029170839d51bc
+Merge: f01707d 4e3526c
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Sat Mar 3 16:33:39 2018 -0700
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 4e3526c190f4c4ad189f61c2e4af667cebc6c9ce
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Sat Mar 3 13:01:23 2018 -0700
+
+    Added two files from assignment Clue Board Part 1
+
+commit f01707dc4ba3ec0f3f4e38f545c366ce49e90067
+Merge: 4b019d7 5cb9ecb
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Mar 1 17:17:33 2018 -0700
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 4b019d70eb9bf095f4aeb28982ab82bea29f5fbc
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Mar 1 17:17:25 2018 -0700
+
+    chore: commiting fina changes
+
+commit 5cb9ecba11c88e63bf5ab3ff1fceb5b018603d4d
+Merge: e7fcbeb 8e7e05e
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 1 17:14:18 2018 -0700
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+
+commit e7fcbebb06e161c2cbf580f9c249d42e822b3ee8
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 1 17:13:12 2018 -0700
+
+    Commented more functions on IntBoardTests
+
+commit 8e7e05eb9ff0b65e05a7ccc96e8778064366cd4a
+Merge: 4ed80d6 9f91915
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Mar 1 17:03:38 2018 -0700
+
+    ch 'master' of https://github.com/ysinha98/ClueGame
+
+commit 4ed80d63577eec25355f588f167ea63790f2347a
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Mar 1 17:02:57 2018 -0700
+
+    chore: last minute changes to print statements
+
+commit 98536107a06c1285455096cedae0486b418be539
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Mar 1 17:00:12 2018 -0700
+
+    Wrote targeting code. fixes incomplete tests
+
+commit 9f9191547b0b6fd2802ac4aa9f266d94944224cd
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 1 16:33:53 2018 -0700
+
+    Commented more on the code
+
+commit b6cee995f86480bbbab97a9e19e588db28863db6
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 1 15:45:08 2018 -0700
+
+    Almost finished commenting all code. The functions in IntBoardTests are left to be commented.
+
+commit 4cc07a290c0b6c7912f2a6a2236849a4a5cd4e9c
+Merge: 9832cea 6152e8b
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 1 12:14:43 2018 -0700
+
+    change
+
+commit 9832cea1c9195ba24799add87b0966655772b754
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Thu Mar 1 12:11:38 2018 -0700
+
+    change
+
+commit 6152e8bbc07ee79d971bcb5f6c1b275a1d13607f
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Thu Mar 1 12:06:04 2018 -0700
+
+    feat: tests work
+
+commit 22c573a845da60e792693d95ca890b4305b73c09
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Feb 28 16:44:28 2018 -0700
+
+    the adjacency code is implemented however the tests seem to not be running the setUp method which causes errors
+
+commit 3963993c5a9b79997af722fbcdbe254f451e0bf8
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Wed Feb 28 15:34:32 2018 -0700
+
+    changed return statements in intBoard, edited some test code, wrote constructor and declared variables.
+
+commit 2fa8366a449ce25033f84eb18032a01938cac647
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Feb 27 21:54:49 2018 -0700
+
+    fix: temporarily removed adjMtx to prepare for turn in
+
+commit 9ddabb4ac22f7ed876bfb8b66189300da3d02841
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Feb 27 21:51:49 2018 -0700
+
+    fix: changed return type on calcTargets. modified tests accordingly
+
+commit bd146e4ee15ad98dbb26d86256106952bf189f8a
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Feb 27 21:31:05 2018 -0700
+
+    fix: removed a duplicate method in intBoard
+
+commit 21320229d0dcabae0b5f381d2b4c4000993ecd48
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Feb 27 21:27:56 2018 -0700
+
+    feat: added targets tests
+
+commit 2389fce9c15b88e800da1e28ca35a4adf9bb5636
+Merge: d86fbde 123af61
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Feb 27 19:59:16 2018 -0700
+
+    merge conflict resolved
+
+commit 123af61b290c0dcc3e84bec5a62d5211bbcadf55
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 19:56:35 2018 -0700
+
+    Finished the tests for adjacency lists
+
+commit d86fbded6e65df69cad1dad3239d3d1d2c552ff4
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Feb 27 19:38:24 2018 -0700
+
+    feat: added getCell method to intboard.
+
+commit 5faef898029aff964a79070b9d6cadc357e1fadf
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Feb 27 18:07:09 2018 -0700
+
+    fix: added parameter for get adjacents and removed test function for board cell
+
+commit fa1365eb3838b3fc5d5d1ba83c2e7655e26b49a7
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 18:03:14 2018 -0700
+
+    Moved IntBoard to experiment package
+
+commit 19857a7d29c5b62f6206b270155a388ed62966a8
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 18:01:30 2018 -0700
+
+    Moved IntBoard to experiment package
+
+commit 21875faad4f2b7f648a1e03930b691960b683ba0
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 17:59:58 2018 -0700
+
+    Moved IntBoard to experiment package
+
+commit d135af1fc0207386dac661b6f14336e95722d437
+Merge: 09ed042 9ed300c
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 17:53:48 2018 -0700
+
+    Working on IntBoardTests
+
+commit 9ed300c347a07012a2289f969488f8129bc0aed4
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Feb 27 17:34:08 2018 -0700
+
+    fix: saved files
+
+commit 09ed0427a768dba81f35c453f8b9c56e26883fe1
+Merge: 1950350 67c2c12
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 17:34:06 2018 -0700
+
+    Merge branch 'master' of https://github.com/ysinha98/ClueGame
+    
+    I need to see the changes made
+
+commit 1950350bc51bffb8ea7a37e433ae0204e8390cf1
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 17:32:52 2018 -0700
+
+    Working on IntBoardTests
+
+commit 67c2c125ba44f04cf518ff74581a3f4fa210908d
+Author: dthorne99 <thorne@mymail.mines.edu>
+Date:   Tue Feb 27 17:32:19 2018 -0700
+
+    chore: added test for top left cell
+
+commit dbb04739e271a3f9023b6c7200dbfeab947c921c
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 17:15:15 2018 -0700
+
+    Added IntBoard and IntBoardTests
+
+commit 29868aad4abbcc8f2644e80c39c09a86ba4d440a
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 17:11:44 2018 -0700
+
+    Added IntBoard and IntBoardTests
+
+commit acd2f4a2b55c1d823c7fef416f7cc590096f9052
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 16:42:17 2018 -0700
+
+    Made a BoardCell class
+
+commit a90c5ff98809ad098dc65cd48d6d16dc589425af
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 15:12:24 2018 -0700
+
+    Started the project
+
+commit 93dbbbc9e9bdc46b9506da1c444dccaa90f02fb2
+Author: ysinha98 <ysinha@mymail.mines.edu>
+Date:   Tue Feb 27 15:06:39 2018 -0700
+
+    Initial commit

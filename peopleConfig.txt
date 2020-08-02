@@ -1,0 +1,6 @@
+A, red, 0, 3
+B, blue, 8, 0
+C, green, 20, 7
+D, magenta, 15, 12
+E, white, 0, 17
+F, orange, 15, 23
